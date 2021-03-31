@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>750</width>
+    <height>447</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(200, 200, 200);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>750</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMaster">
+    <property name="title">
+     <string>Master</string>
+    </property>
+    <widget class="QMenu" name="menuCustomers">
+     <property name="title">
+      <string>Customers</string>
+     </property>
+     <addaction name="actionCustomer_Master"/>
+     <addaction name="actionCustomer_Reg_Info"/>
+    </widget>
+    <addaction name="separator"/>
+    <addaction name="actionUser_Login"/>
+    <addaction name="menuCustomers"/>
+   </widget>
+   <widget class="QMenu" name="menuMachine_Master">
+    <property name="title">
+     <string>Machine Master</string>
+    </property>
+    <addaction name="actionMchn_W_I_P_Info"/>
+    <addaction name="actionMchn_Stock_Info"/>
+    <addaction name="actionMchn_Sale_Info"/>
+   </widget>
+   <widget class="QMenu" name="menuAdmin_Database">
+    <property name="title">
+     <string>Admin Database</string>
+    </property>
+    <addaction name="actionManage_Database"/>
+    <addaction name="actionUpdate_Database"/>
+   </widget>
+   <widget class="QMenu" name="menuReport">
+    <property name="title">
+     <string>Report</string>
+    </property>
+    <addaction name="actionDaily_Transactions"/>
+   </widget>
+   <widget class="QMenu" name="menuCommunication">
+    <property name="title">
+     <string>Communication</string>
+    </property>
+    <addaction name="actionPDA_Communication"/>
+    <addaction name="actionToken_Number"/>
+    <addaction name="actionSetting"/>
+   </widget>
+   <widget class="QMenu" name="menuHelp">
+    <property name="title">
+     <string>Help</string>
+    </property>
+    <addaction name="actionContents"/>
+    <addaction name="actionIndex"/>
+    <addaction name="actionTechnical_Support"/>
+    <addaction name="actionOnline_Help"/>
+   </widget>
+   <widget class="QMenu" name="menuExit">
+    <property name="title">
+     <string>Exit</string>
+    </property>
+   </widget>
+   <addaction name="menuMaster"/>
+   <addaction name="menuMachine_Master"/>
+   <addaction name="menuAdmin_Database"/>
+   <addaction name="menuReport"/>
+   <addaction name="menuCommunication"/>
+   <addaction name="menuHelp"/>
+   <addaction name="menuExit"/>
+  </widget>
+  <action name="actionUser_Login">
+   <property name="text">
+    <string>User Login</string>
+   </property>
+  </action>
+  <action name="actionCustomer_Master">
+   <property name="text">
+    <string>Customer Master</string>
+   </property>
+  </action>
+  <action name="actionCustomer_Reg_Info">
+   <property name="text">
+    <string>Customer Reg. Info</string>
+   </property>
+  </action>
+  <action name="actionMchn_W_I_P_Info">
+   <property name="text">
+    <string>Mchn_W.I.P.Info</string>
+   </property>
+  </action>
+  <action name="actionMchn_Stock_Info">
+   <property name="text">
+    <string>Mchn_Stock Info</string>
+   </property>
+  </action>
+  <action name="actionMchn_Sale_Info">
+   <property name="text">
+    <string>Mchn_Sale Info</string>
+   </property>
+  </action>
+  <action name="actionManage_Database">
+   <property name="text">
+    <string>Manage Database</string>
+   </property>
+  </action>
+  <action name="actionUpdate_Database">
+   <property name="text">
+    <string>Update Database</string>
+   </property>
+  </action>
+  <action name="actionDaily_Transactions">
+   <property name="text">
+    <string>Daily Transactions</string>
+   </property>
+  </action>
+  <action name="actionPDA_Communication">
+   <property name="text">
+    <string>PDA Communication</string>
+   </property>
+  </action>
+  <action name="actionToken_Number">
+   <property name="text">
+    <string>Token Number</string>
+   </property>
+  </action>
+  <action name="actionSetting">
+   <property name="text">
+    <string>Setting</string>
+   </property>
+  </action>
+  <action name="actionContents">
+   <property name="text">
+    <string>Contents</string>
+   </property>
+  </action>
+  <action name="actionIndex">
+   <property name="text">
+    <string>Index</string>
+   </property>
+  </action>
+  <action name="actionTechnical_Support">
+   <property name="text">
+    <string>Technical Support</string>
+   </property>
+  </action>
+  <action name="actionOnline_Help">
+   <property name="text">
+    <string>Online Help</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
