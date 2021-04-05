@@ -13,7 +13,7 @@ This are the files of Desktop Appllication :
    #
 
 2. **Customer_A**
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/User_Login.png)
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Company%20Details.png)
     #
 3.  **Customer_D**  
         
