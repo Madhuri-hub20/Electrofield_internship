@@ -9,36 +9,36 @@ This are the files of Desktop Appllication :
 1. **Company Details**
    
    After the installation  This is the first form that i created.  
-   ![Company snap Forms](Electrofield_internship/Company Details.png)
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/CompanyDetails.png)
    #
 
 2. **Customer_A**
-   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Company%20Customer_A.png)
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Customer_A.png)
     #
 3.  **Customer_D**  
         
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Customer_D.png)
+    ![Customer D](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Customer_D.png)
     #
 
 4. **Dealer Login**
 
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/CompanyInformation.jpg) 
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Dealer_Login_Form.png) 
+   
    #
 5. **Dealer_erp**
     
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Dealer_erp.png)
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Dealer_erp.png)
    #
-6. **Maintence**
-     
    
-
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Maintenance.png)
+6. **Maintence**
+     ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Maintenance.png)
+    
     #
 7. **Tanker Sale**
 
     This form is for Collection of milk having diff fields this are the properties of Milk.
 
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/TankerSale.png)
+    ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Tanker%20Sale.png)
     #
  
  ## **References:-**
