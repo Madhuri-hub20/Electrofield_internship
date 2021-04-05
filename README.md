@@ -13,11 +13,11 @@ This are the files of Desktop Appllication :
    #
 
 2. **Customer_A**
-   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Company%20Details.png)
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Company%20Customer_A.png)
     #
 3.  **Customer_D**  
         
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Company_name.png)
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Customer_D.png)
     #
 
 4. **Dealer Login**
@@ -26,19 +26,19 @@ This are the files of Desktop Appllication :
    #
 5. **Dealer_erp**
     
-   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/SalegroupInfo.png)
+   ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Dealer_erp.png)
    #
 6. **Maintence**
      
    
 
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/PurchaseGroupInfo.png)
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Maintenance.png)
     #
 7. **Tanker Sale**
 
     This form is for Collection of milk having diff fields this are the properties of Milk.
 
-    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/Collection.png)
+    ![Company snap Forms](https://github.com/omkardurafe1/E-Internship/blob/main/Esnaps/TankerSale.png)
     #
  
  ## **References:-**
