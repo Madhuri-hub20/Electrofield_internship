@@ -14,11 +14,11 @@ This are the files of Desktop Appllication :
 
 2. **Customer_A**
    ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Customer_A.png)
-    #
+   #
 3.  **Customer_D**  
         
-    ![Customer D](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Customer_D.png)
-    #
+   ![Customer D](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Customer_D.png)
+   #
 
 4. **Dealer Login**
 
@@ -31,7 +31,7 @@ This are the files of Desktop Appllication :
    #
    
 6. **Maintence**
-7. 
+ 
    ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Maintenance.png)
    #
 7. **Tanker Sale**
