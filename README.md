@@ -31,9 +31,9 @@ This are the files of Desktop Appllication :
    #
    
 6. **Maintence**
-     ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Maintenance.png)
-    
-    #
+7. 
+   ![Company snap Forms](https://github.com/Madhuri-hub20/Electrofield_internship/blob/main/Maintenance.png)
+   #
 7. **Tanker Sale**
 
     This form is for Collection of milk having diff fields this are the properties of Milk.
